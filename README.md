@@ -1,4 +1,4 @@
-# Tarea Tema 8 - DateTime (SMR)
+# Tarea Tema 8 - DateTime (DAM)
 
 Aplicación de consola en C# que pide nombre completo y fecha de nacimiento, y genera un informe personalizado con:
 - Nombre extraído
